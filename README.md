@@ -43,4 +43,4 @@
 | **Frontend** | Flutter |
 | **Backend** | Firebase, NODEJS,SqLite |
 | **Database** | Cloud Firestore |
-| **기타** | Firebase Auth, Storage, Google Maps API |
+| **기타** | Firebase Auth, Storage, Google Maps API, KaKao Map Api |
